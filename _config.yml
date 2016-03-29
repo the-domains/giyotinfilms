@@ -1,7 +1,7 @@
 name: giyotinfilms
 favicon: null
-layout_spectrum: 0.36594
-typography_spectrum: 0.2139
+layout_spectrum: 0.56647
+typography_spectrum: 0.84609
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#a12034'
   brandStrength: 0.875
   lightness: 0.1008769164327532
-  saturation: 0.8449142349418253
-  rhythmicContrast: 0.25
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []

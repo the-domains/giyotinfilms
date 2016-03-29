@@ -1,7 +1,7 @@
 name: giyotinfilms
 favicon: null
-layout_spectrum: 0.013426864985376596
-typography_spectrum: 0.9263010721188039
+layout_spectrum: 0.36594
+typography_spectrum: 0.2139
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.1935693514533341
+    - '#ffffff'
+    - '#000000'
+    - '#9f9f9f'
+    - '#3f3f3f'
+    - '#a12034'
+  brandStrength: 0.875
   lightness: 0.1008769164327532
   saturation: 0.8449142349418253
-  rhythmicContrast: 0.7490677395835519
+  rhythmicContrast: 0.25
 purpose: []

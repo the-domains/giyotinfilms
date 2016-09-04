@@ -3,21 +3,22 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "The Impeccables had it's world premiere at the Busan Film Festival."
-datePublished: '2016-03-29T14:04:31.650Z'
-dateModified: '2016-03-29T14:04:30.968Z'
-title: Projects
+description: The Impeccables had it's world premiere at the Busan Film Festival.
+datePublished: '2016-09-01T15:45:41.419Z'
+dateModified: '2016-09-01T15:45:40.780Z'
+title: ''
 author: []
-sourcePath: _posts/2016-03-08-since-2005-giyotin-has-been-creating-documentaries-short-fi.md
-published: true
+sourcePath: >-
+  _posts/2016-03-08-since-2005-giyotin-has-been-creating-documentaries-short-fi.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: projects/index.html
 _type: WebPage
 

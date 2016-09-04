@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Giyotin Film
+  - name: About us
     id: e8a84635-b3bd-4644-a08d-88f8f1216895
     type: content
   - name: Projects

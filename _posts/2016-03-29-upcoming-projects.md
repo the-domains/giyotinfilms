@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T15:43:42.584Z'
+datePublished: '2016-09-01T15:45:54.934Z'
 sourcePath: _posts/2016-03-29-upcoming-projects.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T15:43:42.079Z'
+dateModified: '2016-09-01T15:45:54.361Z'
 title: ''
 publisher: {}
 description: >-

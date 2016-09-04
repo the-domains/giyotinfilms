@@ -1,19 +1,4 @@
-name: giyotinfilms
-favicon: null
-layout_spectrum: 0.56647
 typography_spectrum: 0.84609
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,23 @@ color:
   lightness: 0.1008769164327532
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.56647
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: giyotinfilms
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Giyotin Film
+    id: e8a84635-b3bd-4644-a08d-88f8f1216895
+    type: content
+favicon: null
 purpose: []

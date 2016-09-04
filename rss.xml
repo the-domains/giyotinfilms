@@ -4,8 +4,15 @@
         <description><![CDATA[giyotin films]]></description>
         <link>https://thegrid.ai/giyotinfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 15:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:33:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giyotinfilms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Upcoming projects]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e7f9e5f7e52dfa8b168ffa80e13a25ffd028406.jpg">]]></description>
+            <link>https://thegrid.ai/giyotinfilms/upcoming-projects/index.html</link>
+            <guid isPermaLink="false">58321134-690d-47bc-98e4-8a1e493bfc0f</guid>
+            <pubDate>Thu, 01 Sep 2016 15:33:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giyotin Film]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b9e209840cc76c56ee0ae3b2d8f10bc6d58648a.jpg">]]></description>

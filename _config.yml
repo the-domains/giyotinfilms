@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: giyotinfilms
+name: giyotin films
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Giyotin Film
     id: e8a84635-b3bd-4644-a08d-88f8f1216895
+    type: content
+  - name: Projects
+    id: d24ee384-c33a-4a83-9e22-dfe9c8effca7
     type: content
 favicon: null
 purpose: []

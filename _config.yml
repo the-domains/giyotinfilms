@@ -31,5 +31,8 @@ navigation:
   - name: Projects
     id: d24ee384-c33a-4a83-9e22-dfe9c8effca7
     type: content
+  - name: Upcoming projects
+    id: 58321134-690d-47bc-98e4-8a1e493bfc0f
+    type: content
 favicon: null
 purpose: []

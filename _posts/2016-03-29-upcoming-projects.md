@@ -1,27 +1,23 @@
 ---
-datePublished: '2016-09-01T15:33:40.051Z'
+datePublished: '2016-09-01T15:43:42.584Z'
 sourcePath: _posts/2016-03-29-upcoming-projects.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-09-01T15:33:39.586Z'
+via: {}
+dateModified: '2016-09-01T15:43:42.079Z'
 title: ''
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 description: >-
   Giyotin's next feature to be shot in the summer of 2016 deals with over
   urbanisation and lost ideals.
 inLanguage: null
 inNav: true
-via: {}
 starred: false
 url: upcoming-projects/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e7f9e5f7e52dfa8b168ffa80e13a25ffd028406.jpg)

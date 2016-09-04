@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[giyotinfilms]]></title>
-        <description><![CDATA[giyotinfilms]]></description>
+        <title><![CDATA[giyotin films]]></title>
+        <description><![CDATA[giyotin films]]></description>
         <link>https://thegrid.ai/giyotinfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 10:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:32:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giyotinfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Giyotin Film]]></title>
-            <description><![CDATA[<article><h1>Giyotin Film</h1><p>Giyotin Film has been producing documentaries, short films and award winning features since 2005.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b9e209840cc76c56ee0ae3b2d8f10bc6d58648a.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b9e209840cc76c56ee0ae3b2d8f10bc6d58648a.jpg">]]></description>
             <link>https://thegrid.ai/giyotinfilms/home/index.html</link>
             <guid isPermaLink="false">e8a84635-b3bd-4644-a08d-88f8f1216895</guid>
-            <pubDate>Tue, 29 Mar 2016 10:31:12 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 15:32:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
